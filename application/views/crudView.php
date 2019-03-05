@@ -53,8 +53,8 @@
             <thead class="thead-dark">
                 <tr>
                 <th scope="col">#</th>
-                <th scope="col">Last Name</th>
                 <th scope="col">First Name</th>
+                 <th scope="col">Last Name</th>
                 <th scope="col">Birthdate</th>
                 <th scope="col">Contact No</th>
                 <th scope="col">Bio</th>
@@ -65,8 +65,8 @@
                 <?php foreach($result as $row) {?>
                 <tr>
                 <th scope="row"><?php echo $row->id; ?></th>
-                <td><?php echo $row->lastName; ?></td>
                 <td><?php echo $row->firstName; ?></td>
+                 <td><?php echo $row->lastName; ?></td>
                 <td><?php echo $row->birthdate; ?></td>
                 <td><?php echo $row->contactNo; ?></td>
                 <td><?php echo $row->bio; ?></td>

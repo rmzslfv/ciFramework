@@ -8,8 +8,8 @@ class Crud_model extends CI_Model {
 
     function createData() {
         $data = array (
-            'lastName' => $this->input->post('lastName'),
             'firstName' => $this->input->post('firstName'),
+            'lastName' => $this->input->post('lastName'),
             'birthdate' => $this->input->post('birthdate'),
             'contactNo' => $this->input->post('contactNo'),
             'bio' => $this->input->post('bio')
@@ -29,8 +29,8 @@ class Crud_model extends CI_Model {
 
     function updateData($id) {
         $data = array (
-            'lastName' => $this->input->post('lastName'),
             'firstName' => $this->input->post('firstName'),
+            'lastName' => $this->input->post('lastName'),
             'birthdate' => $this->input->post('birthdate'),
             'contactNo' => $this->input->post('contactNo'),
             'bio' => $this->input->post('bio')
