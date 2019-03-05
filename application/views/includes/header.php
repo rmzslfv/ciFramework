@@ -19,6 +19,6 @@
     <div class="container">
     <li><a class="navbar-brand" href="http://localhost/ciFramework/index.php">Home</a></li>
     <li><a class="navbar-brand" href="http://localhost/ciFramework/index.php/crudcontroller">Contacts</a></li>
-    <li><a class="navbar-brand" href="http://localhost/ciFramework/index.php/about">About</a></li>
+    <li><a class="navbar-brand" href="http://localhost/ciFramework/index.php/aboutController">About</a></li>
     </div>
     </nav>

@@ -27,5 +27,5 @@
             <a href="<?php echo site_url('CrudController')?>"><button type="button" class="btn btn-danger">Cancel</button></a>
         </form>  
     </div>
-  </body>
-</html>
+    <br>
+<?php $this->load->view('includes/footer');?>

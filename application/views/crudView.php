@@ -2,7 +2,6 @@
     <div class="container">
     <br>
     <br>
-
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
         Add
@@ -47,8 +46,6 @@
             </div>
         </div>
         </div>
-
-
         <table class="table">
             <thead class="thead-dark">
                 <tr>

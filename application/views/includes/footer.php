@@ -1,5 +1,5 @@
-<div <nav class="navbar-dark bg-dark" id="navbar"> ">
-    <br></br>
+<nav class="navbar-dark bg-dark" id="navbar"> 
+    <br>
 <ul class="social-icons">
     <li>
         <a href="https://www.facebook.com/" target='blank'>
@@ -57,6 +57,6 @@
         </a>
     </li>
 </ul>
-
+</nav>
 </body>
 </html>
